@@ -1,0 +1,63 @@
+/**
+ * Every step element has one of three classes: `future`, `present` and `past`.
+ * Only one current step has the `present` class.
+ * When a step is shown (selected) its element gets the class of "active" and 
+ * the body element gets the class `impress-on-ID` where ID is the step's id.
+ */
+
+.notes {
+    display: none;
+}
+
+.step h2 {
+    font-size: 78px;
+    font-weight: bold;
+}
+
+.slide ul {
+  list-style-type: disc;
+  padding-left: 60px;
+}
+
+#title {
+  text-align: center;
+  font-size: 300px;
+  line-height: 1;
+}
+
+#title b {
+  display: block;
+  font-size: 215px;
+}
+
+#harm-behrens {
+  width: 1000;
+  height: 540px;
+
+  background-image: url('/img/netzfisch.png');
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
+
+#the-basics {
+  background-image: url('/img/family.jpg');
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+
+#open-source {
+  text-align: center;
+  font-size: 100px;
+  line-height: 1;
+}
+
+#open-source b {
+  display: block;
+  font-size: 150px;
+  line-height: 150px;
+}

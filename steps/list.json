@@ -1,0 +1,142 @@
+[
+    {
+        "uri": "overview.html",
+        "id": "overview",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 1500,
+            "z": 0,
+            "scale": 10,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": -1200,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "harm-behrens.html",
+        "id": "harm-behrens",
+        "class": "step",
+        "data": {
+            "x": 1500,
+            "y": -1200,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "the-basics.html",
+        "id": "the-basics",
+        "class": "step slide",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "my-stations.html",
+        "id": "my-stations",
+        "class": "step slide",
+        "data": {
+            "x": 1500,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "otto-group.html",
+        "id": "otto-group",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "middle-layer.html",
+        "id": "middle-layer",
+        "class": "step",
+        "data": {
+            "x": 5200,
+            "y": -2000,
+            "z": -3000,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "technische-architektur.html",
+        "id": "technische-architektur",
+        "class": "step",
+        "data": {
+            "x": 5200,
+            "y": -500,
+            "z": -3000,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "shop-plattform.html",
+        "id": "shop-plattform",
+        "class": "step",
+        "data": {
+            "x": 5200,
+            "y": 1000,
+            "z": -3000,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "open-source.html",
+        "id": "open-source",
+        "class": "step",
+        "data": {
+            "x": 700,
+            "y": 1500,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    }
+]
