@@ -9,6 +9,12 @@
     display: none;
 }
 
+#you h1 {
+    font-size: 150px;
+    font-weight: bold;
+    line-height: 1;
+}
+
 .step h2 {
     font-size: 78px;
     font-weight: bold;
@@ -17,6 +23,37 @@
 .slide ul {
   list-style-type: disc;
   padding-left: 60px;
+}
+
+.eyecatcher {
+  padding: 0;
+}
+
+.eyecatcher .because {
+  font-size: 64px;
+  position: absolute;
+  top: -0.5em;
+  left: 1.5em;
+
+  -webkit-transform: translateZ(20px);
+  -moz-transform:    translateZ(20px);
+  -ms-transform:     translateZ(20px);
+  -o-transform:      translateZ(20px);
+  transform:         translateZ(20px);
+}
+
+.eyecatcher h1 {
+  font-size: 190px;
+
+  -webkit-transform: translateZ(50px);
+  -moz-transform:    translateZ(50px);
+  -ms-transform:     translateZ(50px);
+  -o-transform:      translateZ(50px);
+  transform:         translateZ(50px);
+}
+
+.eyecatcher .footnote {
+  font-size: 32px;
 }
 
 #der-neue {
@@ -45,7 +82,7 @@
 }
 
 #the-basics {
-  background-image: url('/img/family.png');
+  background-image: url('/img/family.jpg');
   background-position: top right;
   background-repeat: no-repeat;
 }

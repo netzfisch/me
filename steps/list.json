@@ -14,9 +14,23 @@
         }
     },
     {
+        "uri": "you.html",
+        "id": "you",
+        "class": "step",
+        "data": {
+            "x": -3800,
+            "y": 1000,
+            "z": -3000,
+            "scale": 8,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 270
+        }
+    },
+    {
         "uri": "der-neue.html",
         "id": "der-neue",
-        "class": "step title",
+        "class": "step",
         "data": {
             "x": 0,
             "y": -200,
@@ -24,7 +38,7 @@
             "scale": 2,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 270
+            "rotate-z": 0
         }
     },
     {
@@ -169,8 +183,8 @@
     },
     {
         "uri": "tools.html",
-        "id": "title",
-        "class": "step",
+        "id": "tools",
+        "class": "step eyecatcher",
         "data": {
             "x": 2000,
             "y": 2800,
@@ -186,13 +200,13 @@
         "id": "logos",
         "class": "step",
         "data": {
-            "x": 3300,
-            "y": 3100,
+            "x": 3100,
+            "y": 3300,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -200,8 +214,8 @@
         "id": "example",
         "class": "step",
         "data": {
-            "x": 4600,
-            "y": 3400,
+            "x": 4300,
+            "y": 3500,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -212,15 +226,15 @@
     {
         "uri": "beat-it.html",
         "id": "beat-it",
-        "class": "step",
+        "class": "step eyecatcher",
         "data": {
-            "x": 5900,
-            "y": 3700,
+            "x": 5400,
+            "y": 3900,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 180
         }
     },
     {
@@ -228,13 +242,27 @@
         "id": "epages",
         "class": "step",
         "data": {
-            "x": 7200,
-            "y": 4000,
+            "x": 6800,
+            "y": 4200,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 270
+        }
+    },
+    {
+        "uri": "the-end.html",
+        "id": "the-end",
+        "class": "step",
+        "data": {
+            "x": 7500,
+            "y": 200,
+            "z": -4000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 135
         }
     }
 ]
