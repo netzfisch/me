@@ -5,7 +5,7 @@
         "class": "step",
         "data": {
             "x": 3000,
-            "y": 1500,
+            "y": 2000,
             "z": 0,
             "scale": 10,
             "rotate-x": 0,
@@ -14,26 +14,26 @@
         }
     },
     {
-        "uri": "start.html",
-        "id": "title",
+        "uri": "der-neue.html",
+        "id": "der-neue",
         "class": "step title",
         "data": {
             "x": 0,
-            "y": -1200,
+            "y": -200,
             "z": 0,
             "scale": 2,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 0
+            "rotate-z": 270
         }
     },
     {
-        "uri": "harm-behrens.html",
-        "id": "harm-behrens",
+        "uri": "netzfisch.html",
+        "id": "netzfisch",
         "class": "step",
         "data": {
             "x": 1500,
-            "y": -1200,
+            "y": -200,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -47,7 +47,7 @@
         "class": "step slide",
         "data": {
             "x": 0,
-            "y": 0,
+            "y": 1000,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -61,7 +61,7 @@
         "class": "step slide",
         "data": {
             "x": 1500,
-            "y": 0,
+            "y": 1000,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -75,7 +75,7 @@
         "class": "step",
         "data": {
             "x": 3000,
-            "y": 0,
+            "y": 1000,
             "z": 0,
             "scale": 4,
             "rotate-x": 0,
@@ -89,7 +89,7 @@
         "class": "step",
         "data": {
             "x": 5200,
-            "y": -2000,
+            "y": -1000,
             "z": -3000,
             "scale": 2,
             "rotate-x": 0,
@@ -103,7 +103,7 @@
         "class": "step",
         "data": {
             "x": 5200,
-            "y": -500,
+            "y": 500,
             "z": -3000,
             "scale": 2,
             "rotate-x": 0,
@@ -116,13 +116,41 @@
         "id": "shop-plattform",
         "class": "step",
         "data": {
-            "x": 5200,
-            "y": 1000,
+            "x": 4400,
+            "y": 2000,
             "z": -3000,
-            "scale": 2,
+            "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 0
+            "rotate-z": 270
+        }
+    },
+    {
+        "uri": "shop-modules.html",
+        "id": "shop-modules",
+        "class": "step",
+        "data": {
+            "x": 5200,
+            "y": 2000,
+            "z": -3000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 270
+        }
+    },
+    {
+        "uri": "shop-reach.html",
+        "id": "shop-reach",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 2000,
+            "z": -3000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 270
         }
     },
     {
@@ -131,12 +159,82 @@
         "class": "step",
         "data": {
             "x": 700,
-            "y": 1500,
+            "y": 2500,
             "z": 0,
             "scale": 4,
             "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 180
+        }
+    },
+    {
+        "uri": "tools.html",
+        "id": "title",
+        "class": "step",
+        "data": {
+            "x": 2000,
+            "y": 2800,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 270
+        }
+    },
+    {
+        "uri": "logos.html",
+        "id": "logos",
+        "class": "step",
+        "data": {
+            "x": 3300,
+            "y": 3100,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "example.html",
+        "id": "example",
+        "class": "step",
+        "data": {
+            "x": 4600,
+            "y": 3400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "beat-it.html",
+        "id": "beat-it",
+        "class": "step",
+        "data": {
+            "x": 5900,
+            "y": 3700,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "epages.html",
+        "id": "epages",
+        "class": "step",
+        "data": {
+            "x": 7200,
+            "y": 4000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
         }
     }
 ]

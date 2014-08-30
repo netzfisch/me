@@ -19,18 +19,18 @@
   padding-left: 60px;
 }
 
-#title {
+#der-neue {
   text-align: center;
   font-size: 300px;
   line-height: 1;
 }
 
-#title b {
+#der-neue b {
   display: block;
   font-size: 215px;
 }
 
-#harm-behrens {
+#netzfisch {
   width: 1000;
   height: 540px;
 
@@ -45,7 +45,7 @@
 }
 
 #the-basics {
-  background-image: url('/img/family.jpg');
+  background-image: url('/img/family.png');
   background-position: top right;
   background-repeat: no-repeat;
 }
