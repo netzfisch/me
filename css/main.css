@@ -5,6 +5,11 @@
  * the body element gets the class `impress-on-ID` where ID is the step's id.
  */
 
+body {
+/**   background: rgb(215, 215, 215); */
+   background: white;
+}
+
 .notes {
     display: none;
 }
@@ -82,9 +87,14 @@
 }
 
 #the-basics {
-  background-image: url('/img/family.jpg');
+  font-weight: 800;
+  background-image: url('/img/family.png');
   background-position: top right;
   background-repeat: no-repeat;
+}
+
+#the-basics q {
+  padding-top:100px;
 }
 
 #open-source {

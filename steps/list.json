@@ -98,8 +98,8 @@
         }
     },
     {
-        "uri": "middle-layer.html",
-        "id": "middle-layer",
+        "uri": "architecture.html",
+        "id": "architecture",
         "class": "step",
         "data": {
             "x": 5200,
@@ -112,8 +112,8 @@
         }
     },
     {
-        "uri": "technische-architektur.html",
-        "id": "technische-architektur",
+        "uri": "shop-platform.html",
+        "id": "shop-plattform",
         "class": "step",
         "data": {
             "x": 5200,
@@ -126,20 +126,6 @@
         }
     },
     {
-        "uri": "shop-plattform.html",
-        "id": "shop-plattform",
-        "class": "step",
-        "data": {
-            "x": 4400,
-            "y": 2000,
-            "z": -3000,
-            "scale": 1,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 270
-        }
-    },
-    {
         "uri": "shop-modules.html",
         "id": "shop-modules",
         "class": "step",
@@ -147,24 +133,10 @@
             "x": 5200,
             "y": 2000,
             "z": -3000,
-            "scale": 1,
+            "scale": 2,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 270
-        }
-    },
-    {
-        "uri": "shop-reach.html",
-        "id": "shop-reach",
-        "class": "step",
-        "data": {
-            "x": 6000,
-            "y": 2000,
-            "z": -3000,
-            "scale": 1,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 270
+            "rotate-z": 0
         }
     },
     {
@@ -215,12 +187,12 @@
         "class": "step",
         "data": {
             "x": 4300,
-            "y": 3500,
+            "y": 3900,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -228,8 +200,8 @@
         "id": "beat-it",
         "class": "step eyecatcher",
         "data": {
-            "x": 5400,
-            "y": 3900,
+            "x": 5600,
+            "y": 4100,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -262,7 +234,21 @@
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 135
+            "rotate-z": 270
+        }
+    },
+    {
+        "uri": "the-begin.html",
+        "id": "the-begin",
+        "class": "step",
+        "data": {
+            "x": 8500,
+            "y": -2500,
+            "z": -8000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 270
         }
     }
 ]
